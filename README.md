@@ -1,12 +1,19 @@
-### Hi there 👋
+### Hi there! 👋
 
 
-<img align="right" alt="Cat eating ramen" height="110px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
+<img align="right" alt="Daft Punk Cat" height="110px" src="https://user-images.githubusercontent.com/70204047/129378227-9fe9017a-98d6-4270-bec3-8a0310fc6c4b.gif"/>
 
 <h1 align="center">👋 Hola, soy Martin / Hi, I'm Martin 👤</h1>
 
 ### 👨‍💻 About me
-Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores experiencias de usuario a través de interfaces atractivas y accesibles.
+⚡ I'm currently taking a FullStack Developer course. Already completed the **_Frontend Developer_** modules (Web Development, JavaScript, ReactJs). Ongoing Backend module (NodeJS, MongoDB, Express).
+I have 10+ years of experience in Tech, Support, Sales and Marketing, ranging from Fortune 500 companies to SMBs and Startup companies. Undergoing a new career phase focusing in software product development.
+
+🌱 I’m passionate about applying Technology to create Products that solve real problems, for people and for businesses.
+
+👯 I’m looking to collaborate, learning and adding value to Development Projects and Businesses while shifting my career in the process.
+
+🔭 I'm also interested in learning more about Data Structures, Algorithms and AI.
 
 ![](https://img.shields.io/github/followers/martin086?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/martin086?label=%E2%AD%90GitHub%20stars&style=flat-square)
@@ -15,7 +22,7 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 ---
 
 ### 💻  I have experience and/or am currently studying the following tech stack:
-![Tech Stack](https://skills.thijs.gg/icons?i=html,css,sass,js,react,nodejs,expressjs,git,figma,markdown")
+![Tech Stack](https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,js,react,nodejs,expressjs,mongodb,firebase,nest,git,figma,markdown,postman")
 
 ---
 
