@@ -1,5 +1,4 @@
-### Hi there! 👋
-
+### Bienvenido! / Welcome! 
 
 <img align="right" alt="Daft Punk Cat" height="110px" src="https://user-images.githubusercontent.com/70204047/129378227-9fe9017a-98d6-4270-bec3-8a0310fc6c4b.gif"/>
 
@@ -22,7 +21,7 @@ I'm currently taking a **_FullStack Developer_** course. Already completed the *
 
 ---
 
-### 💻  I have experience and/or am currently studying the following tech stack:
+### 💻  I have experience with and/or am currently studying the following tech stack:
 ![Tech Stack](https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,js,react,nodejs,expressjs,mongodb,firebase,nest,git,figma,markdown,postman")
 
 ---
