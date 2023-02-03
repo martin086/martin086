@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 <img align="right" alt="Cat eating ramen" height="110px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
 
 <h1 align="center">👋 Hola, soy Martin / Hi, I'm Martin 👤</h1>
