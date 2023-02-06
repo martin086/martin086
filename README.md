@@ -22,7 +22,7 @@ I'm currently taking a **_FullStack Developer_** course. Already completed the *
 ---
 
 ### 💻  I have experience with and/or am currently studying the following tech stack:
-![Tech Stack](https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,js,react,nodejs,expressjs,mongodb,firebase,nest,git,figma,markdown,postman")
+![Tech Stack](https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,js,react,nodejs,expressjs,mongodb,firebase,nest,git,figma,postman,markdown)
 
 ---
 
