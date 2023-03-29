@@ -36,9 +36,9 @@ I'm currently taking a **_FullStack Developer_** course. Already completed the *
 
 ### 📊 GitHub Stats
 <div align='center' style="display: flex;">
-  <img src="https://github-readme-stats-martin086.vercel.app/api?username=martin086&show_icons=true&theme=panda" />
+  <img src="https://github-readme-stats-green-ten-16.vercel.app/api?username=martin086&show_icons=true&theme=panda" />
 </div>
 <br>
 <div align='center' style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats-martin086.vercel.app/api/top-langs/?username=martin086&layout=compact&langs_count=8&show_icons=true&theme=panda&card_width=445" />
+  <img src="https://github-readme-stats-green-ten-16.vercel.app/api/top-langs/?username=martin086&layout=compact&langs_count=8&show_icons=true&theme=panda&card_width=445" />
 </div>
