@@ -35,9 +35,7 @@ I'm currently taking a **_FullStack Developer_** course. Already completed the *
 ---
 
 ### 📊 GitHub Stats
-<a href="https://github.com/martin086/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin086&repo=github-readme-stats" />
-</a>
+
 <div align='center' style="display: flex;">
   <img src="https://github-readme-stats-green-ten-16.vercel.app/api?username=martin086&show_icons=true&theme=panda" />
 </div>
