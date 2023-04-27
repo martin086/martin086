@@ -13,7 +13,7 @@ I'm currently taking a **_FullStack Developer_** course. Already completed the *
 
 👯 I’m looking to collaborate, learning and adding value to Development Projects and Businesses while shifting my career in the process.
 
-🔭 I'm also interested in learning more about Data Structures, Algorithms and AI.
+🔭 I'm also interested in learning more about Data Science, Algorithms and AI.
 
 ![](https://img.shields.io/github/followers/martin086?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/martin086?label=%E2%AD%90GitHub%20stars&style=flat-square)
