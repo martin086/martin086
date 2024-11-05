@@ -6,8 +6,8 @@
 
 ### 👨‍💻 About me
 ⚡ I have 10+ years of experience in Sales, IT & Digital Marketing, ranging from Fortune 500 companies to SMBs and Startup companies. Undergoing a new career phase focusing in software product development.
-I'm currently taking a **_FullStack Developer_** course. Already completed the **_Frontend Developer_** modules (Web Development, JavaScript, ReactJs). Ongoing **_Backend Developer_** module (NodeJS, MongoDB, Express).
-
+I completed the **_FullStack Developer_** course in CoderHouse. The **_Frontend Developer_** modules included HTML, CSS, JavaScript & ReactJs.
+The **_Backend Developer_** module comprised of NodeJS, MongoDB, Express, Docker and other tools.
 
 🌱 I’m passionate about applying Technology to create Products that solve real problems, for people and for businesses.
 
